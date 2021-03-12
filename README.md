@@ -1,12 +1,4 @@
-
-<p align="center">
-<a href="https://github.com/affisjunianto/followers"><img title="Followers" src="https://img.shields.io/github/followers/affisjunianto?color=blue&style=flat-square"></a>
-<a href="https://github.com/affisjunianto/botwasapv5/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/affisjunianto/botwasapv5?color=red&style=flat-square"></a>
-<a href="https://github.com/affisjunianto/botwasapv5/network/members"><img title="Forks" src="http://img.shields.io/github/forks/affisjunianto/botwasapv5?color=red&style=flat-square"></a>
-<a href="https://github.com/affisjunianto/botwasapv5/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/affisjunianto/botwasapv5?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faffisjunianto%2Fbotwasapv5&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Support&edge_flat=false"/></a>
-<a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/MAINTENED-YES-blue.svg"</a>
-</p>
+![WhatsApp Image 2021-03-11 at 13 50 00](https://user-images.githubusercontent.com/79174165/110792308-7fafa700-8273-11eb-9dac-ee2a14fd7251.jpeg)
 
 ## Clone this project
 
