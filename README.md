@@ -52,6 +52,3 @@ you've just cloned!!
 |       ✅        |   Broadcast                      |
 |       ✅        |   Clear All Chats                |
 
-
-## whatsapp number
-* [`WhatsApp`](wa.me/50373488366)
